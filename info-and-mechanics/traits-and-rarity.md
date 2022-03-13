@@ -1,0 +1,2 @@
+# ⚡ Traits & Rarity
+

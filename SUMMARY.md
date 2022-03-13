@@ -1,29 +1,36 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+## ⭐ Introduction
 
-## Guides
+* [👀 Introduction & Vision](README.md)
+* [📖 Storyline](introduction/storyline.md)
+* [🧑🦯 Team](introduction/team.md)
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+***
 
-## Fundamentals
+* [🚀 Roadmap](roadmap/README.md)
+  * [✊ Phase 1](roadmap/phase-1.md)
+  * [💍 Phase 2](roadmap/phase-2.md)
+  * [🐳 Phase 3](roadmap/phase-3.md)
+  * [😗 Phase 4](roadmap/phase-4.md)
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+## 💵 $Pengi Token
 
-## Use Cases
+* [💰 Tokenomics](usdpengi-token/tokenomics.md)
+* [🪙 Pengi Fund](usdpengi-token/pengi-fund.md)
+* [🤑 Staking](usdpengi-token/staking.md)
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+## 🔗 Useful links
 
-## Extras
+* [🌎 Website](https://dopepengis.com)
+* [🌐 Dashboard](https://dashboard.dopepengis.com)
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+## Listings
+
+* [👑 Magic Eden](https://magiceden.io)
+
+## ⚙ Info & Mechanics
+
+* [⚡ Traits & Rarity](info-and-mechanics/traits-and-rarity.md)
+* [🌐 Dashboard](info-and-mechanics/dashboard/README.md)
+  * [🗺 Pengi Map](info-and-mechanics/dashboard/pengi-map.md)
