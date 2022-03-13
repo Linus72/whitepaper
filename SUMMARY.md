@@ -20,6 +20,12 @@
 * [🪙 Pengi Fund](usdpengi-token/pengi-fund.md)
 * [🤑 Staking](usdpengi-token/staking.md)
 
+## ⚙ Info & Mechanics
+
+* [⚡ Traits & Rarity](info-and-mechanics/traits-and-rarity.md)
+* [🌐 Dashboard](info-and-mechanics/dashboard/README.md)
+  * [🗺 Pengi Map](info-and-mechanics/dashboard/pengi-map.md)
+
 ## 🔗 Useful links
 
 * [🌎 Website](https://dopepengis.com)
@@ -28,9 +34,3 @@
 ## Listings
 
 * [👑 Magic Eden](https://magiceden.io)
-
-## ⚙ Info & Mechanics
-
-* [⚡ Traits & Rarity](info-and-mechanics/traits-and-rarity.md)
-* [🌐 Dashboard](info-and-mechanics/dashboard/README.md)
-  * [🗺 Pengi Map](info-and-mechanics/dashboard/pengi-map.md)
