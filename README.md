@@ -20,46 +20,22 @@ Here are a couple of examples of succinct overviews from products with really gr
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-### Guides: Jump right in
+### $PENGI Token
 
-Follow our handy guides to get started on the basics as quickly as possible:
+Follow our handy guides to get started on staking as quickly as possible:
 
 {% content-ref url="usdpengi-token/tokenomics.md" %}
 [tokenomics.md](usdpengi-token/tokenomics.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="usdpengi-token/pengi-fund.md" %}
 [pengi-fund.md](usdpengi-token/pengi-fund.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="usdpengi-token/staking.md" %}
+[staking.md](usdpengi-token/staking.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
+**Good to know:** f
 {% endhint %}
