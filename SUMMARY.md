@@ -23,8 +23,12 @@
 ## ⚙ Info & Mechanics
 
 * [⚡ Traits & Rarity](info-and-mechanics/traits-and-rarity.md)
+* [🏨 DAO](info-and-mechanics/dao.md)
 * [🌐 Dashboard](info-and-mechanics/dashboard/README.md)
+  * [🏙 Interaction with DAO](info-and-mechanics/dashboard/interaction-with-dao.md)
   * [🗺 Pengi Map](info-and-mechanics/dashboard/pengi-map.md)
+* [❓ FAQ](info-and-mechanics/faq/README.md)
+  * [🥳 How to buy](info-and-mechanics/faq/how-to-buy.md)
 
 ## 🔗 Useful links
 
