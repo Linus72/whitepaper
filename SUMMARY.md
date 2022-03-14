@@ -4,7 +4,7 @@
 
 * [👀 Introduction & Vision](README.md)
 * [📖 Storyline](introduction/storyline.md)
-* [🧑🦯 Team](introduction/team.md)
+* [🏋 Team](introduction/team.md)
 
 ***
 
