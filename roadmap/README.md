@@ -18,6 +18,6 @@ fffffffffffffffffffffffffffff
 [phase-3.md](phase-3.md)
 {% endcontent-ref %}
 
-{% content-ref url="phase-4.md" %}
-[phase-4.md](phase-4.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

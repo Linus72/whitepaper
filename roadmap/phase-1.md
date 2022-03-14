@@ -1,18 +1,14 @@
----
-description: Schedule of
----
-
 # ✊ Phase 1
 
 ## February - Q1 2022
 
-* [ ] Assemble Team
-* [ ] Ideation of the art & the project utility
+* [x] Assemble Team
+* [x] Ideation of the art & the project utility
 
 ## March - Q1 2022
 
-* [ ] Whitepaper v1.0
-* [ ] Twitter profile activity
+* [x] Whitepaper v1.0
+* [x] Twitter profile activity
 * [ ] Website (dopepengis.com) release
 * [ ] Discord release
 * [ ] Spread of our vision and plans
@@ -24,6 +20,5 @@ description: Schedule of
 * [ ] Integration of community feedback
 * [ ] Plan mint date
 
-## May - Q2 2022
 
-Coming soon
+
