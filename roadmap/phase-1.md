@@ -8,7 +8,7 @@
 ## March - Q1 2022
 
 * [x] Whitepaper v1.0
-* [x] Twitter profile activity
+* [x] Create Twitter profile&#x20;
 * [ ] Website (dopepengis.com) release
 * [ ] Discord release
 * [ ] Spread of our vision and plans
@@ -16,8 +16,8 @@
 ## April - Q2 2022
 
 * [ ] Finalization of art & traits
+* [ ] Engagement on social media
 * [ ] Whitelist system to pick dope members
-* [ ] Integration of community feedback
 * [ ] Plan mint date
 
 
